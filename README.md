@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h2> Hey there! I'm Chathura.</h2>
+
+<h2> Hi there 👋 I'm Chathura.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
