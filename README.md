@@ -2,9 +2,11 @@
 
 <h1 align='center'> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Chathura.</h1>
 
+
+ <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> <b>Exploring new technologies and developing web solutions and quick hacks</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></h2>
+
 <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">About Me </h3>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Exploring new technologies and developing web solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at IDM Achivers Campus.
 - 🌱 &nbsp; Learning more about UI/UX , PWA and Ecommerce Development .
 
