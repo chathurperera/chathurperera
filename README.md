@@ -8,7 +8,7 @@
 <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">About Me </h3>
 
 - 🎓 &nbsp; Software Engineering Undergraduate at Esoft Metro Campus.
-- 🌱 &nbsp; Learning more about UI/UX , PWA and Ecommerce Development .
+- 🌱 &nbsp; Learning more about UI/UX , AWS and Ecommerce Development .
 
 
 
