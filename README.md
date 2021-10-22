@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Software Engineering Undergraduate at Esoft Metro Campus.
 - 🌱 &nbsp; Learning more about UI/UX , AWS and Ecommerce Development .
 
-<a href="https://app.daily.dev/chathura"><img src="https://api.daily.dev/devcards/d999df7b10f844149d06826c8dd2cab8.png?r=3c8" width="400" alt="Chathura Perera's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/chathura"><img src="https://api.daily.dev/devcards/d999df7b10f844149d06826c8dd2cab8.png?r=3c8" width="400" alt="Chathura Perera's Dev Card"/></a>
 
 
 <h3 align="center">👨‍💻 Languages & Tools 🛠</h3>
