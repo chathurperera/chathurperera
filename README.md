@@ -43,4 +43,5 @@
 <a href="https://chathuraperera.netlify.app/"><img src="https://img.shields.io/badge/-chathuraperera-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/chathuraperera/"><img src="https://img.shields.io/badge/-Chathura%20Perera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:chathuraperera007@gmail.com"><img src="https://img.shields.io/badge/-chathuraperera007@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/VictorChathura"><img src="https://img.shields.io/badge/-VictorChathura-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
