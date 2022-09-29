@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/mbngSnt/MERNBanner.png" alt="mern-Stack" width='100%' border="0">
+<img src="https://github.com/chathurperera/chathurperera/blob/main/MERNBanner.png" alt="mern-Stack" width='100%' border="0">
+
 
 <h2 align="center"> Hey there 👋 I'm Chathura</h2>
 
