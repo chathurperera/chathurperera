@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software engineering at Esoft Metro Campus.\
+🎓 &nbsp;Currently, I am studying for a bachelor's degree in information technology at UCSC.\
 🌱 &nbsp;I'm on track for learning more about DevOps, Web Security, and Cloud Technologies(AWS).\
 📄 &nbsp;Please have a look at my [Resume](https://chathuraperera.netlify.app/Chathura_Perera_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
