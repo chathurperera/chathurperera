@@ -17,7 +17,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
