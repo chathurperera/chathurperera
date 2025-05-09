@@ -8,7 +8,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;Currently, I am studying for a bachelor's degree in information technology at UCSC.\
 🌱 &nbsp;I'm on track for learning more about DevOps, Web Security, and Cloud Technologies(AWS).\
 📄 &nbsp;Please have a look at my [Resume](https://chathuraperera.netlify.app/Chathura_Perera_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
@@ -46,7 +45,6 @@
 
 <p align="center">
 <a href="https://chathuraperera.netlify.app/"><img src="https://img.shields.io/badge/-chathuraperera-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chathuraperera/"><img src="https://img.shields.io/badge/-Chathura%20Perera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:chathuraperera007@gmail.com"><img src="https://img.shields.io/badge/-chathuraperera007@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/VictorChathura"><img src="https://img.shields.io/badge/-VictorChathura-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
